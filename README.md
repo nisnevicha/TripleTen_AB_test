@@ -6,7 +6,7 @@
 - Expected result: within 14 days of signing up, users will show better conversion into product page views (the `product_page` event), product card views (`product_card`) and purchases (`purchase`). At each of the stage of the funnel `product_page → product_card → purchase`, there will be at least a 10% increase
 
 ## Main Conclusions:
-- * Conversion funnel shows that round 30% of users are makning purchases in the end, which is quite high conversion rate
+* Conversion funnel shows that round 30% of users are makning purchases in the end, which is quite high conversion rate
 * 6.1% of users took part in both tests and were excluded from further calculations
 * Most users are performing 6 actions on a website
 * Since test B is applied we can see that share of android users is slightly increasing, compared to other devices
